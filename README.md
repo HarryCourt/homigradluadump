@@ -16,6 +16,8 @@ When starting a game in any gamemode, the game will show a black screen, and the
 
 Timer Failed! [Simple][@addons/homigrad_core/lua/shlib/tier_0/tier_0/player/init_protocol_cl.lua (line 25)]
 ```
+This is most likely caused by (what I believe to be) the lack of the server lua files, which cannot be dumped from the server.
+
 There are server lua files that Homigrad relies on, which are not included within this repository. Unless we build them by scratch, or the source code gets leaked, this repository just exists for reasons that I can't really bother explaining.
 
 Any basic functionality of gameplay is gone, and you will not be able to play Garry's Mod at all, as the code executes in any other gamemode. **If you download this and complain about it not working, I will personally come out to piss on your bed.**
