@@ -1,0 +1,3 @@
+-- "addons\\homigrad\\lua\\hgame\\tier_1\\gib\\init_cl.lua"
+-- Retrieved by https://github.com/lewisclark/glua-steal
+--

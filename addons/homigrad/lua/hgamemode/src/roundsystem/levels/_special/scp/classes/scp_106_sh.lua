@@ -1,0 +1,3 @@
+-- "addons\\homigrad\\lua\\hgamemode\\src\\roundsystem\\levels\\_special\\scp\\classes\\scp_106_sh.lua"
+-- Retrieved by https://github.com/lewisclark/glua-steal
+--

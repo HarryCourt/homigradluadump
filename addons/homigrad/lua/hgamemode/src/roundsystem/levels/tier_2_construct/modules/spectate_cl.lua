@@ -1,0 +1,3 @@
+-- "addons\\homigrad\\lua\\hgamemode\\src\\roundsystem\\levels\\tier_2_construct\\modules\\spectate_cl.lua"
+-- Retrieved by https://github.com/lewisclark/glua-steal
+--
